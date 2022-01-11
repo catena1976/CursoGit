@@ -39,8 +39,6 @@ if ( $num1 == $num3 && $num3 == $num5){
     }else{
         echo ( "True");
     }
-        echo ("<p>");
-
 ?>
 </body>
 </html>
